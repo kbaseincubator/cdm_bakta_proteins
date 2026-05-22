@@ -1,6 +1,6 @@
 # cdm_bakta_proteins
 
-CTS (CDM Task Service) job wrapper for [Bakta's protein-input mode](https://github.com/oschwengers/bakta), which annotates pre-existing protein sequences without re-predicting genes. Sibling to [cdm_bakta](https://github.com/kbaseincubator/cdm_bakta).
+CTS (CDM Task Service) job wrapper for [Bakta's protein-input mode](https://github.com/oschwengers/bakta), which annotates pre-existing protein sequences without re-predicting genes. Variant of [cdm_bakta](https://github.com/kbaseincubator/cdm_bakta) for the protein-input mode.
 
 ## When to use this vs cdm_bakta
 
